@@ -1,1 +1,1 @@
-# tiny-gpt
+# TinyGPT
